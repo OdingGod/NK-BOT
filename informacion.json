@@ -1,12 +1,12 @@
 {
-	"prefijo": ".",
+	"prefijo": "!",
 	"BotControlador": "18297822587@s.whatsapp.net",
-	"CoCreador": "Dani",
+	"CoCreador": "Daniel",
 	"VCardX": "+18297822587",
 	"VCardY": "+1 829 782 2587",
 	"MyPais": "+1",
 	"NombreBot": "LaGfaBot",
-	"LimiteEnGrupos": "2",
+	"LimiteEnGrupos": "1",
 	"LimiteComandos": "666999",
-	"TusRedesSociales": "~>[]\n~>[]\n~>[gr_sa_2006]"
+	"TusRedesSociales": "~>[]\n~>[]\n~>[]"
 }
